@@ -43,8 +43,6 @@ Run the Client (in a separate terminal or machine)
 Make sure both client and server run on the same network or update IP addresses in the code for remote use.
 
 
-<img width="732" height="906" alt="image" src="https://github.com/user-attachments/assets/9c24d898-7e53-4f65-93d3-5f7d63d33033" />
-
-<img width="732" height="906" alt="image" src="https://github.com/user-attachments/assets/910d1719-6547-4b70-a788-cbf5287ebc2f" />
+<img width="732" height="906" alt="image" src="https://github.com/user-attachments/assets/9c24d898-7e53-4f65-93d3-5f7d63d33033" /> <img width="732" height="906" alt="image" src="https://github.com/user-attachments/assets/910d1719-6547-4b70-a788-cbf5287ebc2f" />
 
 <img width="1916" height="1004" alt="image" src="https://github.com/user-attachments/assets/6181bc0b-dd1e-4a7a-8a6c-c23a5f4cec43" />
